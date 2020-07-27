@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stolzz0613/MERNTask/static/css/main.4a4a9a3d.chunk.css",
+    "main.js": "/stolzz0613/MERNTask/static/js/main.fb3a8d2b.chunk.js",
+    "main.js.map": "/stolzz0613/MERNTask/static/js/main.fb3a8d2b.chunk.js.map",
+    "runtime-main.js": "/stolzz0613/MERNTask/static/js/runtime-main.56eb47a0.js",
+    "runtime-main.js.map": "/stolzz0613/MERNTask/static/js/runtime-main.56eb47a0.js.map",
+    "static/js/2.35a59cba.chunk.js": "/stolzz0613/MERNTask/static/js/2.35a59cba.chunk.js",
+    "static/js/2.35a59cba.chunk.js.map": "/stolzz0613/MERNTask/static/js/2.35a59cba.chunk.js.map",
+    "index.html": "/stolzz0613/MERNTask/index.html",
+    "precache-manifest.fd9cfd95141a41aea936a21c1aa2d0d1.js": "/stolzz0613/MERNTask/precache-manifest.fd9cfd95141a41aea936a21c1aa2d0d1.js",
+    "service-worker.js": "/stolzz0613/MERNTask/service-worker.js",
+    "static/css/main.4a4a9a3d.chunk.css.map": "/stolzz0613/MERNTask/static/css/main.4a4a9a3d.chunk.css.map",
+    "static/js/2.35a59cba.chunk.js.LICENSE.txt": "/stolzz0613/MERNTask/static/js/2.35a59cba.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/stolzz0613/MERNTask/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56eb47a0.js",
+    "static/js/2.35a59cba.chunk.js",
+    "static/css/main.4a4a9a3d.chunk.css",
+    "static/js/main.fb3a8d2b.chunk.js"
+  ]
+}
