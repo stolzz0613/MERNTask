@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/stolzz0613/MERNTask/static/css/main.37013e93.chunk.css",
-    "main.js": "/stolzz0613/MERNTask/static/js/main.e382f8c8.chunk.js",
-    "main.js.map": "/stolzz0613/MERNTask/static/js/main.e382f8c8.chunk.js.map",
+    "main.js": "/stolzz0613/MERNTask/static/js/main.6ac5bbdd.chunk.js",
+    "main.js.map": "/stolzz0613/MERNTask/static/js/main.6ac5bbdd.chunk.js.map",
     "runtime-main.js": "/stolzz0613/MERNTask/static/js/runtime-main.56eb47a0.js",
     "runtime-main.js.map": "/stolzz0613/MERNTask/static/js/runtime-main.56eb47a0.js.map",
     "static/js/2.da816443.chunk.js": "/stolzz0613/MERNTask/static/js/2.da816443.chunk.js",
     "static/js/2.da816443.chunk.js.map": "/stolzz0613/MERNTask/static/js/2.da816443.chunk.js.map",
     "index.html": "/stolzz0613/MERNTask/index.html",
-    "precache-manifest.d8d5fd8ce224a9e115e7420e83f8b1f7.js": "/stolzz0613/MERNTask/precache-manifest.d8d5fd8ce224a9e115e7420e83f8b1f7.js",
+    "precache-manifest.c4251f079a2c6636e1b80f0ddcdd0ec6.js": "/stolzz0613/MERNTask/precache-manifest.c4251f079a2c6636e1b80f0ddcdd0ec6.js",
     "service-worker.js": "/stolzz0613/MERNTask/service-worker.js",
     "static/css/main.37013e93.chunk.css.map": "/stolzz0613/MERNTask/static/css/main.37013e93.chunk.css.map",
     "static/js/2.da816443.chunk.js.LICENSE.txt": "/stolzz0613/MERNTask/static/js/2.da816443.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.56eb47a0.js",
     "static/js/2.da816443.chunk.js",
     "static/css/main.37013e93.chunk.css",
-    "static/js/main.e382f8c8.chunk.js"
+    "static/js/main.6ac5bbdd.chunk.js"
   ]
 }
