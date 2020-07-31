@@ -20,6 +20,9 @@ const NuevaCuenta = () => {
 
     const onSubmit = e => {
         e.preventDefault();
+
+
+
     }
 
     return (
@@ -33,7 +36,7 @@ const NuevaCuenta = () => {
                     <div className="campo-form">
                         <label htmlFor="name">Nombre</label>
                         <input
-                            type="name"
+                            type="text"
                             id="name"
                             name="name"
                             placeholder="Tu Nombre"
