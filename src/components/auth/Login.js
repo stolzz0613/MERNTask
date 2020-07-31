@@ -59,7 +59,7 @@ const Login = () => {
                         />
                     </div>
                 </form>
-                <Link to={"/MERNTask/nueva-cuenta"} className="enlace-cuenta" >
+                <Link to={"/MERNTask/proyectos"} className="enlace-cuenta" >
                     Obtener Cuenta
                 </Link>
             </div>
