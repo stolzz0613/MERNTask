@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/MERNTask/static/css/main.37013e93.chunk.css",
-    "main.js": "/MERNTask/static/js/main.0e0da643.chunk.js",
-    "main.js.map": "/MERNTask/static/js/main.0e0da643.chunk.js.map",
+    "main.js": "/MERNTask/static/js/main.8058a0f2.chunk.js",
+    "main.js.map": "/MERNTask/static/js/main.8058a0f2.chunk.js.map",
     "runtime-main.js": "/MERNTask/static/js/runtime-main.5b8955d8.js",
     "runtime-main.js.map": "/MERNTask/static/js/runtime-main.5b8955d8.js.map",
-    "static/js/2.ac9b9de5.chunk.js": "/MERNTask/static/js/2.ac9b9de5.chunk.js",
-    "static/js/2.ac9b9de5.chunk.js.map": "/MERNTask/static/js/2.ac9b9de5.chunk.js.map",
+    "static/js/2.19eedb47.chunk.js": "/MERNTask/static/js/2.19eedb47.chunk.js",
+    "static/js/2.19eedb47.chunk.js.map": "/MERNTask/static/js/2.19eedb47.chunk.js.map",
     "index.html": "/MERNTask/index.html",
-    "precache-manifest.da1f62939f34d600ce2ffe72f163687b.js": "/MERNTask/precache-manifest.da1f62939f34d600ce2ffe72f163687b.js",
+    "precache-manifest.1ea137dc6704124289b78625a765cc77.js": "/MERNTask/precache-manifest.1ea137dc6704124289b78625a765cc77.js",
     "service-worker.js": "/MERNTask/service-worker.js",
     "static/css/main.37013e93.chunk.css.map": "/MERNTask/static/css/main.37013e93.chunk.css.map",
-    "static/js/2.ac9b9de5.chunk.js.LICENSE.txt": "/MERNTask/static/js/2.ac9b9de5.chunk.js.LICENSE.txt"
+    "static/js/2.19eedb47.chunk.js.LICENSE.txt": "/MERNTask/static/js/2.19eedb47.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5b8955d8.js",
-    "static/js/2.ac9b9de5.chunk.js",
+    "static/js/2.19eedb47.chunk.js",
     "static/css/main.37013e93.chunk.css",
-    "static/js/main.0e0da643.chunk.js"
+    "static/js/main.8058a0f2.chunk.js"
   ]
 }
