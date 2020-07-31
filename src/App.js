@@ -8,9 +8,9 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path="/" component={Login} />
-        <Route exact path="/nueva-cuenta" component={NuevaCuenta} />
-        <Route exact path="/proyectos" component={Proyectos} />
+        <Route exact path="/MERNTask" component={Login} />
+        <Route exact path="/MERNTask/nueva-cuenta" component={NuevaCuenta} />
+        <Route exact path="/MERNTask/proyectos" component={Proyectos} />
       </Switch>
     </Router>
   );
