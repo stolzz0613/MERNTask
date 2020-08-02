@@ -4,12 +4,7 @@ import ProyectoContext from "../../context/proyectos/ProyectoContext";
 
 const ListadoTareas = () => {
 
-    const tareasProyecto = [
-        { nombre: 'Elegir Plataforma', estado: true },
-        { nombre: 'Elegir Colores', estado: false },
-        { nombre: 'Elegir Plataformas de Pago', estado: false },
-        { nombre: 'Elegir Hosting', estado: true },
-    ];
+    const tareasProyecto = [];
 
     const proyectosContext = useContext(ProyectoContext);
     const { proyecto, eliminarProyecto } = proyectosContext;
