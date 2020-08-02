@@ -1,6 +1,8 @@
 import React, { useReducer } from 'react';
+import uuid from "react-uuid";
 import TareaContext from "./TareaContext";
 import TareaReducer from "./TareaReducer";
+
 
 import {
     TAREAS_PROYECTO,
@@ -44,6 +46,7 @@ const TareaState = props => {
     }
 
     const agregarTarea = tarea => {
+        tarea.id = uuid();
         dispatch({
             type: AGREGAR_TAREA,
             payload: tarea
