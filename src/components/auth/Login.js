@@ -23,7 +23,7 @@ const Login = () => {
     return (
         <div className="form-usuario">
             <div className="contenedor-form sombra-dark">
-                <h1>Iniciar Sesión</h1>
+                <h1>Inicia Sesión</h1>
 
                 <form
                     onSubmit={onSubmit}
